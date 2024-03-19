@@ -15,4 +15,6 @@ The [summary.md](summary.md) file should be copied into the Documentation tab in
 
 ## Maintainer
 
+* Marco dos Santos
+* and originally created by
 * Paul Teiber - <p.teiber@f5.com>
