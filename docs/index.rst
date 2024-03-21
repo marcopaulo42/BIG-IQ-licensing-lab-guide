@@ -17,13 +17,14 @@ Introduction
 Getting Started
 ===============
 
-The lab familiarizes you with BIG-IP VE licensing using BIG-IQ License Manager (LM).
+The aim of this lab is to familiarise you regarding the FCP licensing with BIG-IQ License Manager (BIG-IQ LM) and BIG-IP VEs.
 
-The lab environment contains a BIG-IQ and a BIG-IP, as well as a Jumpbox reserved for future use.
+This lab environment contains newly deployed BIG-IQ LM and BIG-IP virtual appliances. (The Linux Jumphost is used to host this document)
 
-Continue to :ref:`Module 1 <licensing>` to license and setup BIG-IQ.
+Continue to :ref:`Module 1 <licensing>` to license and setup the BIG-IQ LM.
 
 Lab Maintainers
 ===============
 
 * Paul Teiber <p.teiber@f5.com>
+* Marco dos Santos <m.dosantos@f5.com>
