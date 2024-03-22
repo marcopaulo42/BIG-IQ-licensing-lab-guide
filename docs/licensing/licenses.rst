@@ -32,7 +32,9 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    .. image:: ../images/cat-license-gen.png
 
-   .. attention:: The Dev Key Generator does not include CAT licenses. For this lab we will use older
-      LOAD licenses which offer similar functionality.
+   .. attention:: The Dev Key Generator does not include CAT Base Registration Key licenses.
+#. Click **Home** on the top page navigator
+   .. image:: ../images/home.png
 
-#. Continue to the next exercise once you receive these keys via your corporate email.
+
+#. Continue to the next exercise once you receive these keys via your corporate email (this should takes a few minutes to arrive after successful generation).
