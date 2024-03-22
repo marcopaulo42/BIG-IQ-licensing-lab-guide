@@ -37,5 +37,6 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    .. image:: ../images/Home.png
 
+#. On the **F5 Licensing Tools*** page, click on the **Eval Key Generator** link.
 
 #. Continue to the next exercise once you receive these keys via your corporate email (this should takes a few minutes to arrive after successful generation).
