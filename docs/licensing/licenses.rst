@@ -7,7 +7,7 @@ Two licenses are required: one for BIG-IQ License Manager (LM), and one Catalog 
 pre-provisioned in this lab because they do not offer the Recycle bit.
 
 #. Connect to the VPN. Navigate to the `F5 Licensing Tools <https://license.f5net.com/devkeygenerator/home.jsp>`_ site,
-   and then click on the Dev Key Generator link.
+   and then click on the `Dev Key Generator` link.
 
    .. tip:: You can also access this site using `Federate <https://federate.f5.com>`_.
 
