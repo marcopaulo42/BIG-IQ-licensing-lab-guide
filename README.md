@@ -11,7 +11,9 @@ Sphinx and this repository's dependencies into a virtual environment.
 
 If using BIG-IP VE Licensing with BIG-IQ
  - connect to Ubuntu jump host
-   `ssh <udf uuid>.access.udf.f5.com -p 47002`
+   ```bash
+   ssh <udf uuid>.access.udf.f5.com -p 47002
+   ```
  - download this repo
    `wget https://github.com/marcopaulo42/BIG-IQ-licensing-lab-guide/archive/refs/tags/<current version>.tar.gz`
  - unzip file
