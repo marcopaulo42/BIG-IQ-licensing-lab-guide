@@ -20,7 +20,8 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    .. image:: ../images/lm-license-gen.png
 
-#. Complete the workflow by clicking **Next >>** 
+#. Complete the workflow by clicking **Next >>** twice.
+
 #. Click **Generate A New Key** or **Generate Another Key**.
 
 #. Generate a LOAD Base Registration key using the following selectors:
@@ -44,8 +45,9 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
    * **Product Line:** BIG-IP
    * **Platform:** VE-Catalog
    * **Part Number:** F5-BIG-CAT-A-1-LIC
-   * **EULA:** Select
 
    .. image:: ../images/CAT-Regkey.png
 
-#. Continue to the next exercise once you receive these keys via your corporate email (this should takes a few minutes to arrive after successful generation).
+#. Complete the workflow by clicking **Next >>** twice.
+
+#. Click **Next ->** to continue to the next exercise once you receive these keys via your corporate email (this should takes a few minutes to arrive after successful generation).
