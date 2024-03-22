@@ -11,6 +11,7 @@ Sphinx and this repository's dependencies into a virtual environment.
 
 If using BIG-IP VE Licensing with BIG-IQ
  - connect to Ubuntu jump host
+   **Note:** requires UDF SSH Key setup via `UDF-> Preferences`
    ```bash
    ssh <udf uuid>.access.udf.f5.com -p 47002
    ```
