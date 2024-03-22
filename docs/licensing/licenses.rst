@@ -11,25 +11,28 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    .. tip:: You can also access this site using `Federate <https://federate.f5.com>`_.
 
-#. Request a License Manager license using the following selectors:
+#. Generate a License Manager license using the following selectors:
 
    * **Product Line:** BIG-IQ
    * **Platform:** VE
    * **Part Number:** F5-BIQ-VE-LIC-MGR-LIC-DEV
+   * **EULA:** Select
 
    .. image:: ../images/lm-license-gen.png
 
-#. Complete the workflow and return to the Dev Key Generator to request a CAT key.
+#. Complete the workflow by clicking **Next >>** 
+#. Click **Generate A New Key** or **Generate Another Key**.
 
-#. Request a CAT key using the following selectors:
+#. Generate a LOAD Base Registration key using the following selectors:
 
    * **Product Line:** BIG-IP
    * **Platform:** VE
    * **Part Number:** F5-BIG-MSP-LOADV4-LIC-DEV
+   * **EULA:** Select
 
    .. image:: ../images/cat-license-gen.png
 
    .. attention:: The Dev Key Generator does not include CAT licenses. For this lab we will use older
       LOAD licenses which offer similar functionality.
 
-#. Continue to the next exercise once you receive your keys.
+#. Continue to the next exercise once you receive these keys via your corporate email.
