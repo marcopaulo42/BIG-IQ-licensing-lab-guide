@@ -9,6 +9,10 @@ and served from the UDF environment.
 Install Sphinx using any supported method. A requirements.txt file is provided in this repository for installing
 Sphinx and this repository's dependencies into a virtual environment.
 
+ - F5 Sphinx theme can be found here: `https://github.com/f5devcentral/f5-sphinx-theme/releases`
+ - Sphinx documentation can be found here: `https://www.sphinx-doc.org/en/master/index.html`
+ - Python virtual environment documentation can be found here: `https://python.land/virtual-environments/virtualenv`
+
 If using BIG-IP VE Licensing with BIG-IQ
  - connect to Ubuntu jump host
    > **_Note:_** requires UDF SSH Key setup via `UDF-> Preferences`
@@ -36,6 +40,7 @@ If using BIG-IP VE Licensing with BIG-IQ
    ```bash
    sudo docker ps -a
    sudo docker stop <container name>
+   sudo docker rm <container name>
    ```
  - start new docker container running NGINX webserver and map to new html directory
    ```bash
