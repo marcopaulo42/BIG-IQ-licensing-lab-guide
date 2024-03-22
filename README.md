@@ -12,6 +12,7 @@ Sphinx and this repository's dependencies into a virtual environment.
  - F5 Sphinx theme can be found here: `https://github.com/f5devcentral/f5-sphinx-theme/releases`
  - Sphinx documentation can be found here: `https://www.sphinx-doc.org/en/master/index.html`
  - Python virtual environment documentation can be found here: `https://python.land/virtual-environments/virtualenv`
+ - CloudDocs home page can be found here `https://docs.f5net.com/pages/viewpage.action?spaceKey=F5CLDDOCS&title=CloudDocs+Home`
 
 If using BIG-IP VE Licensing with BIG-IQ
  - connect to Ubuntu jump host
