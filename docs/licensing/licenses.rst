@@ -34,7 +34,8 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    .. attention:: The Dev Key Generator does not include CAT Base Registration Key licenses.
 #. Click **Home** on the top page navigator
-   .. image:: ../images/home.png
+
+   .. image:: ../images/Home.png
 
 
 #. Continue to the next exercise once you receive these keys via your corporate email (this should takes a few minutes to arrive after successful generation).
