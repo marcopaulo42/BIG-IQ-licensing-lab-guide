@@ -5,7 +5,7 @@ Exercise 2: BIG-IQ Setup and Activation
 
 #. Launch the BIG-IQ GUI by selecting the **Access** dropdown and then clicking on the **TMUI** link.
 
-   .. image:: ../images/big-iq-access.png_
+   .. image:: ../images/big-iq-access.png
 
 #. Login as ``admin`` using default credentials:
 
