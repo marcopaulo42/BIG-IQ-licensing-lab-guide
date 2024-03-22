@@ -6,7 +6,7 @@ and served from the UDF environment.
 
 ## Setup
 
-Install Sphinx using any supported method. A requirements.txt file is provided in this repository for installing
+Install Sphinx using any supported method. A `requirements.txt` file is provided in this repository for installing
 Sphinx and this repository's dependencies into a virtual environment.
 
  - F5 Sphinx theme can be found here: `https://github.com/f5devcentral/f5-sphinx-theme/releases`
