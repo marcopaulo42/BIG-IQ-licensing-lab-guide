@@ -23,13 +23,13 @@ If using BIG-IP VE Licensing with BIG-IQ
    ```bash
    tar xzf <current version>.tar.gz
    ```
- - enter python virtual environment (requires python3-venv and python3)
+ - enter python virtual environment (requires `python3-venv` and `python3`)
    ```bash
    python -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
-   cd docs/
-   make htm`
+   cd docs
+   make html
    deactivate
     ```
  - stop previous docker container running NGINX webserver hosting documents
