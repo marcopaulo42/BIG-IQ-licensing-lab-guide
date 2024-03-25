@@ -3,7 +3,7 @@
 Exercise 3: LOAD / CAT License Activation
 =========================================
 
-This exercise goes through the process of activating both LOAD and CAT BIG-IP Base Registration Keys. Although CAT Base Registration Keys are provided, it is useful to see how the CAT Base Registration keys replace the deprecated LOAD Base Registration keys.
+This exercise goes through the process of loading and activating both LOAD and CAT BIG-IP Base Registration Keys. Although CAT Base Registration Keys are provided, it is useful to see how the CAT Base Registration keys replace the deprecated LOAD Base Registration keys.
 
 #. To begin, click on the **Devices** tab and navigate to **License Management >> Licenses**.
 
