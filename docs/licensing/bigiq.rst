@@ -33,8 +33,10 @@ Exercise 2: BIG-IQ Setup and Activation
 
 
    .. note:: 
-      If you wish to experience the **Manual** activation procedure, Select **Manual** for the **Activation Method**. Then click the
-      **Get Dossier** button.
+      If you wish to experience the **Manual** activation procedure, perform the following optional Manual Activation Step.
+
+#. **Optional: Manual Activation** The Manual Activation method can be performed for the case of activating the BIG-IQ that does not have internet access to the F5 License      Servers.
+   Select **Manual** for the **Activation Method**. Then click the **Get Dossier** button.
 
    .. image:: ../images/lm-license-activation.png
 
