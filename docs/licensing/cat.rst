@@ -13,11 +13,11 @@ This exercise goes through the process of loading and activating both LOAD and C
 
 #. Click **Add License**.
 
-   .. attention:: Do not click *Add RegKey Pool*. This is very often where customers go wrong. The *License Name* can be changed later.
+   .. attention:: Make sure to click *Add License*. Do not click *Add RegKey Pool*. This is very often where customers go wrong.
 
    .. image:: ../images/add-license.png
 
-#. Complete the fields as follows:
+#. Complete the *Add and Activate New License* fields as follows:
 
    * **License Name:** LOADV4
    * **Base Registration Key:** <obtain from email>
