@@ -28,7 +28,7 @@ This exercise goes through the process of loading and activating both LOAD and C
    .. tip:: The *License Name* can be changed later.
 
 #. Click **Generate Dossier**. Copy the dossier text and navigate to the `Dev Key Activation
-   <https://license.f5net.com/license/dossier.jsp>`_ page. Agree to the EULA, clicke *Next*. Copy the returned license text to the **License Text** field. Click the blue **Activate** button on the bottom right of the screen.
+   <https://license.f5net.com/license/dossier.jsp>`_ page. Agree to the EULA, click *Next*. Copy the returned license text to the **License Text** field. Click the blue **Activate** button on the bottom right of the screen.
 
 #. You will be redirected to the *Licenses* page and the ``LOADV4`` license should be in **Pending** status.
 
