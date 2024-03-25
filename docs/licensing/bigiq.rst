@@ -3,7 +3,7 @@
 Exercise 2: BIG-IQ Setup and Activation
 =======================================
 
-#. Launch the BIG-IQ GUI by selecting the **Access** dropdown on the BIG-IQ and then clicking on the **TMUI** link.
+#. Access the BIG-IQ Graphical User Interface (GUI) via the UDF Web console, by selecting the **Components** tab, then selecting **Access** on the BIG-IQ F5 Products Tile, and then click the **TMUI** link on the dropdown.
 
    .. image:: ../images/big-iq-access.png
 
