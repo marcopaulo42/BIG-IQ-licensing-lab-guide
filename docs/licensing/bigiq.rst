@@ -3,7 +3,7 @@
 Exercise 2: BIG-IQ Setup and Activation
 =======================================
 
-#. Launch the BIG-IQ GUI by selecting the **Access** dropdown and then clicking on the **TMUI** link.
+#. Launch the BIG-IQ GUI by selecting the **Access** dropdown on the BIG-IQ and then clicking on the **TMUI** link.
 
    .. image:: ../images/big-iq-access.png
 
