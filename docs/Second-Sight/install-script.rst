@@ -7,10 +7,7 @@ Exercise 1: Installing Usage Script
 
 #. Access the BIG-IQ Command Line Interface (CLI) via the UDF Web console, by selecting the Components tab, then selecting *Access* on the BIG-IQ F5 Products Tile, and then click the *WEB SHELL* link on the dropdown.
 
-In the BIG-IQ GUI, navigate to **License Management >> Assignments** on the **Devices** tab. Check the box next to
-   the assignment for ``BIG-IP 1`` at 10.1.1.5. Click **Change License**.
-
-   .. image:: ../images/big-iq-webshell.png
+.. image:: ../images/big-iq-webshell.png
 
 #. On the **Change License** screen, assign a new license from the **F5-BIG-MSP-BT-1G-LIC-DEV** offering using the
    following parameters, and then click **Assign**:
