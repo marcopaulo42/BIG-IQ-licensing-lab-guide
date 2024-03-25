@@ -28,8 +28,7 @@ This exercise goes through the process of loading and activating both LOAD and C
    .. tip:: The *License Name* can be changed later.
 
 #. Click **Generate Dossier**. Copy the dossier text and navigate to the `Dev Key Activation
-   <https://license.f5net.com/license/dossier.jsp>`_ page. Copy the returned license text to
-   the **License Text** field. Click **Activate**.
+   <https://license.f5net.com/license/dossier.jsp>`_ page. Agree to the EULA, clicke *Next*. Copy the returned license text to the **License Text** field. Click the blue **Activate** button on the bottom right of the screen.
 
 #. You will be redirected to the *Licenses* page and the ``LOADV4`` license should be in **Pending** status.
 
@@ -37,7 +36,7 @@ This exercise goes through the process of loading and activating both LOAD and C
 
 #. Click on ``LOADV4`` to review the license's properties.
 
-   The top portion of the page displays information about the CAT license.
+   The top portion of the page displays information about the Base Registration license.
 
    * The *Name* field is editable.
    * The *Service Check Date* should be today. Every issued BIG-IP license inherits this date.
@@ -56,19 +55,9 @@ This exercise goes through the process of loading and activating both LOAD and C
 
    .. image:: ../images/cat-ltm-1g-activation.png
 
-#. You will return to the *Licenses* page. Note that the offering is now **Active**. Click the small **x**
-   next to the filter text to restore the full list of offerings. Then search for **F5-BIG-MSP-BT-1G-LIC-DEV** and
-   activate it.
+#. You will return to the *Licenses* page. Note that the offering now has a an **Active** status with a Green dot next to it. In the *Filtered by:* window, click the small **x** on the right hand side of the text box to restore the full list of offerings for this Base Registration key.
 
    .. image:: ../images/filtered-by-x.png
 
-   .. tip:: In a real environment, all 37 offerings in this license must be activated. This is why
-      automatic activation is *strongly* encouraged.
-
-#. Use the **x** to remove the filter text, and then click on the **Status** column heading until the arrow points down
-   and the activated offerings are shown. You should see the two active offerings.
-
-   .. image:: ../images/cat-active-offerings.png
-
-   .. tip:: The *Description* field of each offering is editable. Make sure to click the **Save & Close** button to save
-      any edits.
+   .. tip:: In a real environment, the remaining *Pending* offerings in this list must be manually activated. This is why Automatic Activation is *strongly* encouraged. This also reduces the risk of Copy - Paste errors.
+   .. tip:: The *Description* field of each offering is editable. One suggestion is to use this field to enter a description of each Offering Name. Make sure to click the **Save & Close** button to save any edits.
