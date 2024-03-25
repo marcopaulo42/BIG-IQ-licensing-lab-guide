@@ -17,13 +17,10 @@ This exercise goes through the process of loading and activating both LOAD and C
 
    .. image:: ../images/add-license.png
 
-#. Complete the *Add and Activate New License* fields as follows:
-From the Email received for the F5 Product: F5-BIQ-VE-LIC-MGR-LIC-DEV, copy the corresponding Registration Key, and paste this into the Base Registration Key field. Select the Automatic radio button and then click Activate. Click Agree on the EULA pop-up. If the activation was successful, a line indicating License activation completed successfully. will appear on the page.
-
-Click the blue Next button to continue.
+#. From the Email received for the F5 Product: F5-BIG-MSP-LOADV4-LIC-DEV, copy the corresponding Registration Key and use this to complete the *Add and Activate New License* fields as follows:
 
    * **License Name:** LOADV4
-   * **Base Registration Key:** <obtain from email>
+   * **Base Registration Key:** <obtained from email>
    * **Activation Method:** Manual
 
    .. image:: ../images/cat-license-add.png
