@@ -20,8 +20,9 @@ Exercise 2: BIG-IQ Setup and Activation
    * **Username:** admin
    * **Password:** !f5bigiqadmin
 
-#. The BIG-IQ Setup wizard will launch. The first step is licensing. Select the **License** radio button. Fill in the
-   **Base Registration Key** field with the license and select **Manual** for the **Activation Method**. Then click the
+#. The BIG-IQ Setup wizard will launch. The first step is licensing. 
+
+   Select the **License** radio button ont the **License Information** page. From the Email received for the **F5 Product: F5-BIQ-VE-LIC-MGR-LIC-DEV**, copy the corresponding **Registration Key**, and paste this into the **Base Registration Key** field. Select **Manual** for the **Activation Method**. Then click the
    **Get Dossier** button.
 
    .. image:: ../images/lm-license-activation.png
