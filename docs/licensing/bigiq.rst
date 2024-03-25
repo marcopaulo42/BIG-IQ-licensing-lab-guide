@@ -28,13 +28,12 @@ Exercise 2: BIG-IQ Setup and Activation
 
    If the activation was successful, a line indicating **License activation completed successfully.** will appear on the page.
 
-
-Select **Manual** for the **Activation Method**. Then click the
-   **Get Dossier** button.
-
+   Tip
+   If you wish to experience the **Manual** activation procedure, Select **Manual** for the **Activation Method**. Then click the
+   **Get Dossier** button. 
    .. image:: ../images/lm-license-activation.png
 
-#. Copy the dossier text and navigate to the `Dev Key Activation <https://license.f5net.com/license/dossier.jsp>`_ page.
+   Copy the dossier text and navigate to the `Dev Key Activation <https://license.f5net.com/license/dossier.jsp>`_ page.
    Complete the prompts and copy the returned license text to the **License Text** field in BIG-IQ. Then click
    **Activate**. The text *"License activation completed successfully."* should appear next to the Activate button.
    Click the blue **Next** button.
