@@ -75,8 +75,13 @@ Exercise 2: BIG-IQ Setup and Activation
    .. image:: ../images/restart-services.png
 
    Bootstrapping should complete in 5-10 minutes. Your session will automatically terminate and you will redirect to the
-   login screen while services continue to restart. When you can, login as ``admin``.
+   login screen while services continue to restart.
 
    .. image:: ../images/restart-services-login.png
 
-#. After logging in, continue to the next exercise.
+#. Once the BIG-IQ has reloaded and presents the Login screen, use the previously created credentials:
+
+   * **Username:** admin
+   * **Password:** default
+   
+   to login, and continue to the next exercise.
