@@ -59,5 +59,5 @@ This exercise goes through the process of loading and activating both LOAD and C
 
    .. image:: ../images/filtered-by-x.png
 
-   .. tip:: In a real environment, the remaining *Pending* offerings in this list must be manually activated. This is why Automatic Activation is *strongly* encouraged. This also reduces the risk of Copy - Paste errors.
+   .. tip:: In a real environment, the remaining *Pending* offerings in this list must be manually activated. (Once Manual Activation is begun, it is not possible to change to Automatic Activation.) This is why Automatic Activation is *strongly* encouraged. This also reduces the risk of Copy - Paste errors.
    .. tip:: The *Description* field of each offering is editable. One suggestion is to use this field to enter a description of each Offering Name. Make sure to click the **Save & Close** button to save any edits.
