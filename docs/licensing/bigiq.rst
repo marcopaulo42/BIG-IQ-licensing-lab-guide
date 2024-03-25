@@ -47,7 +47,7 @@ Exercise 2: BIG-IQ Setup and Activation
 
    .. important:: Retain this key and treat it like a password. You will need it if you decide to implement HA.
 
-#. Update the root password. Use ``!f5bigiqroot`` for this lab. Click the blue **Next** button.
+#. On the screen *Update Account Passwords* Update the root password. Use ``!f5bigiqroot`` for this lab. This password is used to access the **root** user via the Command Line Interface (CLI) . Click the blue **Next** button.
 
    .. image:: ../images/root-passwd.png
 
@@ -60,16 +60,16 @@ Exercise 2: BIG-IQ Setup and Activation
       of BIG-IQ are enabled when a LM key is used to activate BIG-IQ.
 
 #. On the *Networking* screen, set a system hostname. Use ``bigiq.example.lan`` for this lab. Self IPs are not
-   required when BIG-IQ is only used for license management. Click **Next**.
+   required when BIG-IQ is only used for license management. Click the blue **Next** button.
 
-   .. note:: You must use a `fully qualified domain name <https://en.wikipedia.org/wiki/Fully_qualified_domain_name>`_.
+   .. note:: For the BIG-IQ *Hostname*, you must use a `fully qualified domain name <https://en.wikipedia.org/wiki/Fully_qualified_domain_name>`_.
 
-#. Review the DNS and NTP settings on the *Services* screen. Click **Next**.
+#. Review the DNS and NTP settings on the *Services* screen. Change the *Time Zone* to match your region. Click the blue **Next** button.
 
    .. tip:: Both DNS and NTP servers should be configured in customer environments, especially if automatic license
       activation is used.
 
-#. Review the configured settings on the *Launch* screen. Click the blue **Launch** button. Click **Restart** on the
+#. Review the configured settings on the *Summary* screen. Click the blue **Launch** button. Click **Restart** on the
    popup window. The services will restart while bootstrap logs scroll across the screen.
 
    .. image:: ../images/restart-services.png
