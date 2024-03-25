@@ -5,13 +5,15 @@ Exercise 3: LOAD / CAT License Activation
 
 This exercise goes through the process of loading and activating both LOAD and CAT BIG-IP Base Registration Keys. Although CAT Base Registration Keys are provided, it is useful to see how the CAT Base Registration keys replace the deprecated LOAD Base Registration keys.
 
-#. To begin, click on the **Devices** tab and navigate to **License Management >> Licenses**.
+#. In the BIG-IQ LM GUI, click on the **Devices** tab and navigate using the left hand index to **License Management >> Licenses**.
 
    .. image:: ../images/devices-tab.png
 
    .. image:: ../images/licenses-sidebar.png
 
 #. Click **Add License**.
+
+   .. attention:: Do not click *Add RegKey Pool*. This is very often where customers go wrong. The *License Name* can be changed later.
 
    .. image:: ../images/add-license.png
 
