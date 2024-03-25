@@ -12,7 +12,7 @@ Exercise 2: BIG-IQ Setup and Activation
    * **Username:** admin
    * **Password:** default
 
-#. You will need to immediately update the password. Enter ``default`` as the current passworkd and enter ``!f5bigiqadmin`` as the new password for this lab.
+#. You will need to immediately update the password. Enter ``default`` as the current password and enter ``!f5bigiqadmin`` as the new password for this lab.
    Complete the form, and then click **Save**.
 
    You will be redirected back to the login page. Login with the updated credentials.
