@@ -27,6 +27,8 @@ Exercise 2: BIG-IQ Setup and Activation
    Select the **Automatic** radio button and then click **Activate**. Click **Agree** on the EULA pop-up.
 
    If the activation was successful, a line indicating **License activation completed successfully.** will appear on the page.
+    .. image:: ../images/big-iq-lic-auto.png
+
 
    Tip
    If you wish to experience the **Manual** activation procedure, Select **Manual** for the **Activation Method**. Then click the
