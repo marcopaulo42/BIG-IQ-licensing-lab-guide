@@ -30,7 +30,8 @@ Exercise 2: BIG-IQ Setup and Activation
 
    Tip
    If you wish to experience the **Manual** activation procedure, Select **Manual** for the **Activation Method**. Then click the
-   **Get Dossier** button. 
+   **Get Dossier** button.
+
    .. image:: ../images/lm-license-activation.png
 
    Copy the dossier text and navigate to the `Dev Key Activation <https://license.f5net.com/license/dossier.jsp>`_ page.
