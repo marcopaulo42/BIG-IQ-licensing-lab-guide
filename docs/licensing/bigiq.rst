@@ -82,6 +82,6 @@ Exercise 2: BIG-IQ Setup and Activation
 #. Once the BIG-IQ has reloaded and presents the Login screen, use the previously created credentials:
 
    * **Username:** admin
-   * **Password:** default
+   * **Password:** !f5bigiqadmin
    
    to login, and continue to the next exercise.
