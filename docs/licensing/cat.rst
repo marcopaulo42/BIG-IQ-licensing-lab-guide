@@ -1,6 +1,6 @@
 .. _cat:
 
-Exercise 3: CAT License Activation
+Exercise 3: LOAD / CAT License Activation
 ======================================
 
 #. To begin, click on the **Devices** tab and navigate to **License Management >> Licenses**.
