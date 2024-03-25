@@ -9,7 +9,13 @@ Exercise 1: Installing Usage Script
 
 .. image:: ../images/big-iq-webshell.png
 
-#. On the **Change License** screen, assign a new license from the **F5-BIG-MSP-BT-1G-LIC-DEV** offering using the
+#. You should have a new tab in your browser showing content similar to the following screenshot.
+
+.. image:: ../images/big-iq-cli-new.png
+
+
+
+with contenOn the **Change License** screen, assign a new license from the **F5-BIG-MSP-BT-1G-LIC-DEV** offering using the
    following parameters, and then click **Assign**:
 
    * **Username:** admin
