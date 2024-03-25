@@ -9,7 +9,7 @@ The script takes a few seconds to download from F5's GITHUB repository and less 
 
 F5 requires the script is run once a month and the data file is emailed to their CSM, or group email address. BIG-IQ maintains reports about licenses it issues and revokes. These reports are used for both billing and reference.
 
-For reference and more information, please see the Support Solution Article <https://my.f5.com/manage/s/article/K29144504>_
+For reference and more information, please see the Support Solution Article `K29144504 <https://my.f5.com/manage/s/article/K29144504>`_.
 
 
 .. toctree::
