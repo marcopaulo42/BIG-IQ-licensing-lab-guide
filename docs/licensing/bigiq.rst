@@ -75,7 +75,7 @@ Exercise 2: BIG-IQ Setup and Activation
    .. image:: ../images/restart-services.png
 
    Bootstrapping should complete in 5-10 minutes. Your session will automatically terminate and you will be redirected to the
-   login screen while services continue to restart.
+   login screen while services continue to restart. (Please note that this can take a few minutes).
 
    .. image:: ../images/restart-services-login.png
 
