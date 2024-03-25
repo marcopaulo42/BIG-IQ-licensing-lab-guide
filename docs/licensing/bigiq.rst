@@ -26,6 +26,7 @@ Exercise 2: BIG-IQ Setup and Activation
    From the Email received for the **F5 Product: F5-BIQ-VE-LIC-MGR-LIC-DEV**, copy the corresponding **Registration Key**, and paste this into the **Base Registration Key** field.
    Select the **Automatic** radio button and then click **Activate**. Click **Agree** on the EULA pop-up.
    If the activation was successful, a line indicating **License activation completed successfully.** will appear on the page.
+   
    Click the blue **Next** button to continue.
 
     .. image:: ../images/big-iq-lic-auto.png
