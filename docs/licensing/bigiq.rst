@@ -15,7 +15,10 @@ Exercise 2: BIG-IQ Setup and Activation
 #. You will need to immediately update the password. Enter ``default`` as the current passworkd and enter ``!f5bigiqadmin`` as the new password for this lab.
    Complete the form, and then click **Save**.
 
-   You will be redirected back to the login page. Login with the updated password.
+   You will be redirected back to the login page. Login with the updated credentials.
+
+   * **Username:** admin
+   * **Password:** !f5bigiqadmin
 
 #. The BIG-IQ Setup wizard will launch. The first step is licensing. Select the **License** radio button. Fill in the
    **Base Registration Key** field with the license and select **Manual** for the **Activation Method**. Then click the
