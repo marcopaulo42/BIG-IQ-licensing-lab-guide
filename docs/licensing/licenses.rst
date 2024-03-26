@@ -15,7 +15,7 @@ pre-provisioned in this lab because they do not offer the Recycle bit.
 
    * **Product Line:** BIG-IQ
    * **Platform:** VE
-   * **Part Number:** F5-BIQ-VE-LIC-MGR-LIC-DEV
+   * **Part Number:** F5-BIQ-VE-MAX-LIC-DEV
    * **EULA:** Select
 
    .. image:: ../images/lm-license-gen.png
