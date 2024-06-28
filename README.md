@@ -28,6 +28,10 @@ If using BIG-IP VE Licensing with BIG-IQ
    ```bash
    tar xzf <current version>.tar.gz
    ```
+ - change directory to unzipped directory
+   ```bash
+   cd BIG-IQ-licensing-lab-guide-<current version>
+   ```   
  - enter python virtual environment (requires `python3-venv` and `python3`)
    ```bash
    python3 -m venv .venv
@@ -36,7 +40,8 @@ If using BIG-IP VE Licensing with BIG-IQ
    cd docs
    make html
    deactivate
-    ```
+   ```
+   
  - stop previous docker container running NGINX webserver hosting documents
    ```bash
    sudo docker ps -a
