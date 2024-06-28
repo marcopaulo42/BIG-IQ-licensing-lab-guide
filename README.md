@@ -28,7 +28,7 @@ If using BIG-IP VE Licensing with BIG-IQ
    ```bash
    tar xzf <current version>.tar.gz
    ```
- - change directory to unzipped directory
+ - change to unzipped directory
    ```bash
    cd BIG-IQ-licensing-lab-guide-<current version>
    ```   
@@ -41,7 +41,11 @@ If using BIG-IP VE Licensing with BIG-IQ
    make html
    deactivate
    ```
-   
+ - copy newly created files to home directory
+   ```bash
+   cp -r ./docs/_build/html/ ~
+   ```
+  
  - stop previous docker container running NGINX webserver hosting documents
    ```bash
    sudo docker ps -a
@@ -50,7 +54,7 @@ If using BIG-IP VE Licensing with BIG-IQ
    ```
  - start new docker container running NGINX webserver and map to new html directory
    ```bash
-   sudo docker run --name docker-nginx -p 8080:80 -d -v /home/ubuntu/<BIG-IQ-licensing-lab-guide path>/docs/_build/html:/usr/share/nginx/html nginx
+   sudo docker run --name docker-nginx -p 8080:80 -d --restart unless-stopped -v /home/ubuntu/html:/usr/share/nginx/html nginx
    ```
 
 ## summary.md
