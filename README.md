@@ -61,6 +61,23 @@ If using BIG-IP VE Licensing with BIG-IQ
 
 The [summary.md](summary.md) file should be copied into the Documentation tab in UDF.
 
+## Initial Setup of Ubuntu Jump host in UDF
+The following commands are used to setup the Ubuntu Jumphost hosted in UDF. The setup allows a docker container to run at startup, and hosts an NGINX webserver which presents the above lab guide.
+
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install docker.io
+Sudo systemctl enable --now docker
+sudo apt install python3-venv
+sudo apt install make
+sudo docker pull nginx
+```
+Perform the commands above to download the BIG-IQ lab guide, make it, and move it to the ~/html directory, and then run the following command to run the NGINX docker image:
+```bash
+sudo docker run --name docker-nginx -p 8080:80 -d --restart unless-stopped -v /home/ubuntu/html:/usr/share/nginx/html nginx
+```
+
 ## Maintainer
 
 * Marco dos Santos
