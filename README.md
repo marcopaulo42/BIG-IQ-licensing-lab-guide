@@ -68,7 +68,7 @@ The following commands are used to setup the Ubuntu Jumphost hosted in UDF. The 
 sudo apt update
 sudo apt upgrade
 sudo apt install docker.io
-Sudo systemctl enable --now docker
+sudo systemctl enable --now docker
 sudo apt install python3-venv
 sudo apt install make
 sudo docker pull nginx
