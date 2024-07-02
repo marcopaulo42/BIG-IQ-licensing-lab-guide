@@ -8,7 +8,7 @@ VE Licensing with BIG-IQ
 
    self
    1-licensing/0-licensing
-   assign-revoke/assign-revoke
+   2-assign-revoke/assign-revoke
    reporting/reporting
 
 Introduction
