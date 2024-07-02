@@ -21,7 +21,7 @@ The aim of this lab is to familiarise you regarding the FCP licensing with BIG-I
 
 This lab environment contains newly deployed BIG-IQ CM and two BIG-IP virtual appliances. (The Linux Jumphost is used to host this document)
 
-Continue to :ref:`Module 1 <1-licensing/1-licenses>` to license and setup the BIG-IQ CM.
+Continue to :ref:`Module 1 <1-licensing/0-licensing>` to license and setup the BIG-IQ CM.
 
 Lab Maintainers
 ===============
