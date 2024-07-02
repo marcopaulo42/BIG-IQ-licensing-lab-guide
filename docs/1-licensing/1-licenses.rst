@@ -1,4 +1,4 @@
-.. _2-licenses:
+.. _1-licenses:
 
 Exercise 1: Obtaining Licenses
 ==============================
