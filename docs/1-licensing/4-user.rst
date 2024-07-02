@@ -1,4 +1,4 @@
-.. _licuser:
+.. _4-user:
 
 Exercise 4: License Manager User Role (Optional)
 ================================================
