@@ -1,4 +1,4 @@
-.. _3-bigiq_setup:
+.. _2-big-iq:
 
 Exercise 2: BIG-IQ Setup and Activation
 =======================================
