@@ -11,7 +11,7 @@ complete the BIG-IQ setup and the following modules. These lab instructions need
    :name: lab-setup-toc
    :glob:
 
-   licenses
-   bigiq
-   cat
-   user
+   1-licenses
+   2-big-iq
+   3-cat
+   4-user
