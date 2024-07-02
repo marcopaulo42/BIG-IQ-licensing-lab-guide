@@ -1,4 +1,4 @@
-.. _4-cat:
+.. _3-cat:
 
 Exercise 3: LOAD / CAT License Activation
 =========================================
