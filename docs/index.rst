@@ -7,7 +7,7 @@ VE Licensing with BIG-IQ
    :hidden:
 
    self
-   1-licensing/1-licensing
+   1-licensing/0-licensing
    assign-revoke/assign-revoke
    reporting/reporting
 
